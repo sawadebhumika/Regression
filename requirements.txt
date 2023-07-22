@@ -1,5 +1,7 @@
 pandas
 numpy
 Flask
+sklearn
+seaborn
 
 -e .
